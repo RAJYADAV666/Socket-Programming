@@ -7,7 +7,7 @@ This project demonstrates how two applications can communicate with each other o
 
 ## 📸 Screenshot
 
-![Chat Screenshot](assets/chat.png)
+![Chat Screenshot](assets/Chat.png)
 
 ---
 
